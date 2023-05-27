@@ -6,3 +6,4 @@ A word cloud visually represents text data, with words sized by frequency or imp
 <img width="500" alt="image" src="https://github.com/SONERIKHI/WORD-CLOUD/assets/112720079/3e915f8f-5f5f-4804-bdef-a20ee766330c">
 <img width="273" alt="image" src="https://github.com/SONERIKHI/WORD-CLOUD/assets/112720079/aca746ca-3e28-4b02-aada-d374dfb69a49">
 <img width="275" alt="image" src="https://github.com/SONERIKHI/WORD-CLOUD/assets/112720079/1bfbf1fe-dbad-4dce-84b5-3461eb950264">
+<img width="584" alt="image" src="https://github.com/SONERIKHI/WORD-CLOUD/assets/112720079/85d6450a-3fb3-4c33-abc7-481ab3bb8566">
